@@ -151,5 +151,21 @@
     </void>
    </object>
   </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>uno</string>
+    </void>
+    <void property="qtdDias">
+     <string>7</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>ultimoteste</string>
+    </void>
+    <void property="valor">
+     <string>741</string>
+    </void>
+   </object>
+  </void>
  </object>
 </java>

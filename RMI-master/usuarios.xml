@@ -457,5 +457,24 @@
     </void>
    </object>
   </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>111111</string>
+    </void>
+    <void property="email">
+     <string>ultimo@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>ultimoteste</string>
+    </void>
+    <void property="senha">
+     <string>teste</string>
+    </void>
+    <void property="telefone">
+     <string>111111</string>
+    </void>
+   </object>
+  </void>
  </object>
 </java>

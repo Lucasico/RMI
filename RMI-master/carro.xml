@@ -79,5 +79,18 @@
     </void>
    </object>
   </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>cor147</string>
+    </void>
+    <void property="nome">
+     <string>corcel</string>
+    </void>
+    <void property="placa">
+     <string>volks</string>
+    </void>
+   </object>
+  </void>
  </object>
 </java>
