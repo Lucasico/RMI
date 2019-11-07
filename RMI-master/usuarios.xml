@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123456</string>
+    </void>
+    <void property="email">
+     <string>lucas@gmail</string>
+    </void>
+    <void property="nome">
+     <string>lucas</string>
+    </void>
+    <void property="senha">
+     <string>lucas</string>
+    </void>
+    <void property="telefone">
+     <string>999999</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123456</string>
+    </void>
+    <void property="email">
+     <string>lucas@gmail</string>
+    </void>
+    <void property="nome">
+     <string>pedro</string>
+    </void>
+    <void property="senha">
+     <string>pedro</string>
+    </void>
+    <void property="telefone">
+     <string>999999</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123456</string>
+    </void>
+    <void property="email">
+     <string>lucas@gmail</string>
+    </void>
+    <void property="nome">
+     <string>pedro</string>
+    </void>
+    <void property="senha">
+     <string>pedro</string>
+    </void>
+    <void property="telefone">
+     <string>999999</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>dddd</string>
+    </void>
+    <void property="email">
+     <string>dddd</string>
+    </void>
+    <void property="nome">
+     <string>John</string>
+    </void>
+    <void property="senha">
+     <string>ddd</string>
+    </void>
+    <void property="telefone">
+     <string>ddd</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>1321</string>
+    </void>
+    <void property="email">
+     <string>lucasico85@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Lucas Bezerra</string>
+    </void>
+    <void property="senha">
+     <string>123</string>
+    </void>
+    <void property="telefone">
+     <string>36655555</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>asdf</string>
+    </void>
+    <void property="email">
+     <string>sadlfdl@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>lucas</string>
+    </void>
+    <void property="senha">
+     <string>asdf</string>
+    </void>
+    <void property="telefone">
+     <string>asdf</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>1596314</string>
+    </void>
+    <void property="email">
+     <string>Marisergio@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Marisergio</string>
+    </void>
+    <void property="senha">
+     <string>123</string>
+    </void>
+    <void property="telefone">
+     <string>159331</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>321321</string>
+    </void>
+    <void property="email">
+     <string>Ana@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Ana Lucia</string>
+    </void>
+    <void property="senha">
+     <string>132</string>
+    </void>
+    <void property="telefone">
+     <string>9223666</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string></string>
+    </void>
+    <void property="email">
+     <string></string>
+    </void>
+    <void property="nome">
+     <string></string>
+    </void>
+    <void property="senha">
+     <string></string>
+    </void>
+    <void property="telefone">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste</string>
+    </void>
+    <void property="email">
+     <string>teste@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>TESTER</string>
+    </void>
+    <void property="senha">
+     <string>teste</string>
+    </void>
+    <void property="telefone">
+     <string>teste</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string></string>
+    </void>
+    <void property="email">
+     <string></string>
+    </void>
+    <void property="nome">
+     <string></string>
+    </void>
+    <void property="senha">
+     <string></string>
+    </void>
+    <void property="telefone">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>072.099.999-05</string>
+    </void>
+    <void property="email">
+     <string>LFC@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>lucas</string>
+    </void>
+    <void property="senha">
+     <string>lucas</string>
+    </void>
+    <void property="telefone">
+     <string>9222653</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string></string>
+    </void>
+    <void property="email">
+     <string></string>
+    </void>
+    <void property="nome">
+     <string></string>
+    </void>
+    <void property="senha">
+     <string></string>
+    </void>
+    <void property="telefone">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string></string>
+    </void>
+    <void property="email">
+     <string></string>
+    </void>
+    <void property="nome">
+     <string></string>
+    </void>
+    <void property="senha">
+     <string></string>
+    </void>
+    <void property="telefone">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123</string>
+    </void>
+    <void property="email">
+     <string>marcioSousa@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Marcio Sousa</string>
+    </void>
+    <void property="senha">
+     <string>123</string>
+    </void>
+    <void property="telefone">
+     <string>123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>novo3</string>
+    </void>
+    <void property="email">
+     <string>novo5</string>
+    </void>
+    <void property="nome">
+     <string>novo1</string>
+    </void>
+    <void property="senha">
+     <string>novo2</string>
+    </void>
+    <void property="telefone">
+     <string>novo4</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste02</string>
+    </void>
+    <void property="email">
+     <string>teste02</string>
+    </void>
+    <void property="nome">
+     <string>teste02</string>
+    </void>
+    <void property="senha">
+     <string>teste02</string>
+    </void>
+    <void property="telefone">
+     <string>teste02</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste03</string>
+    </void>
+    <void property="email">
+     <string>teste03</string>
+    </void>
+    <void property="nome">
+     <string>teste03</string>
+    </void>
+    <void property="senha">
+     <string>teste03</string>
+    </void>
+    <void property="telefone">
+     <string>teste03</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123</string>
+    </void>
+    <void property="email">
+     <string>123@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>lucas</string>
+    </void>
+    <void property="senha">
+     <string>luc123</string>
+    </void>
+    <void property="telefone">
+     <string>123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste04</string>
+    </void>
+    <void property="email">
+     <string>teste04</string>
+    </void>
+    <void property="nome">
+     <string>teste04</string>
+    </void>
+    <void property="senha">
+     <string>teste04</string>
+    </void>
+    <void property="telefone">
+     <string>teste04</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste05</string>
+    </void>
+    <void property="email">
+     <string>teste05</string>
+    </void>
+    <void property="nome">
+     <string>teste05</string>
+    </void>
+    <void property="senha">
+     <string>teste05</string>
+    </void>
+    <void property="telefone">
+     <string>teste05</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>teste09</string>
+    </void>
+    <void property="email">
+     <string>teste09</string>
+    </void>
+    <void property="nome">
+     <string>teste09</string>
+    </void>
+    <void property="senha">
+     <string>teste09</string>
+    </void>
+    <void property="telefone">
+     <string>teste09</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>123456789</string>
+    </void>
+    <void property="email">
+     <string>lucas@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>lucas bezerra</string>
+    </void>
+    <void property="senha">
+     <string>123456</string>
+    </void>
+    <void property="telefone">
+     <string>92243535</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Usuarios">
+    <void property="cpf">
+     <string>0720000</string>
+    </void>
+    <void property="email">
+     <string>gmail@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>jose</string>
+    </void>
+    <void property="senha">
+     <string>123</string>
+    </void>
+    <void property="telefone">
+     <string>00000000</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

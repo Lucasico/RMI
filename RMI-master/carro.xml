@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>sdkjj</string>
+    </void>
+    <void property="nome">
+     <string>fusca</string>
+    </void>
+    <void property="placa">
+     <string>sda</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>HONDA</string>
+    </void>
+    <void property="nome">
+     <string>HYLUX</string>
+    </void>
+    <void property="placa">
+     <string>LUX123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>FERRARI</string>
+    </void>
+    <void property="nome">
+     <string>FERRARI-R7</string>
+    </void>
+    <void property="placa">
+     <string>FER321</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>fiat</string>
+    </void>
+    <void property="nome">
+     <string>uno</string>
+    </void>
+    <void property="placa">
+     <string>uno456</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>fiat</string>
+    </void>
+    <void property="nome">
+     <string>camara</string>
+    </void>
+    <void property="placa">
+     <string>cama123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.Carro">
+    <void property="fabricante">
+     <string>fiat</string>
+    </void>
+    <void property="nome">
+     <string>mille</string>
+    </void>
+    <void property="placa">
+     <string>mil999</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

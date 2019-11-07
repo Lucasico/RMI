@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>4</string>
+    </void>
+    <void property="valor">
+     <string>100</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>5</string>
+    </void>
+    <void property="valor">
+     <string>150</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>5</string>
+    </void>
+    <void property="valor">
+     <string>150</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>10</string>
+    </void>
+    <void property="valor">
+     <string>1500</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>5</string>
+    </void>
+    <void property="valor">
+     <string>100</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>2</string>
+    </void>
+    <void property="valor">
+     <string>2</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="qtdDias">
+     <string>10</string>
+    </void>
+    <void property="valor">
+     <string>1000</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>uno</string>
+    </void>
+    <void property="qtdDias">
+     <string>10</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>lucas bezerra</string>
+    </void>
+    <void property="valor">
+     <string>100</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>uno</string>
+    </void>
+    <void property="qtdDias">
+     <string>100</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>lucas bezerra</string>
+    </void>
+    <void property="valor">
+     <string>254</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>uno</string>
+    </void>
+    <void property="qtdDias">
+     <string>100</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>lucas bezerra</string>
+    </void>
+    <void property="valor">
+     <string>1500</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>FERRARI-R7</string>
+    </void>
+    <void property="qtdDias">
+     <string>3</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>teste03</string>
+    </void>
+    <void property="valor">
+     <string>1500</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="server.entidades.LocarVeiculo">
+    <void property="carroLocado">
+     <string>mille</string>
+    </void>
+    <void property="qtdDias">
+     <string>5</string>
+    </void>
+    <void property="usuarioCliente">
+     <string>jose</string>
+    </void>
+    <void property="valor">
+     <string>1500</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
